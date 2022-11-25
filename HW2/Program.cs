@@ -50,7 +50,7 @@ Console.WriteLine($"");
 // 7 -> да
 // 1 -> нет
 
-Console.WriteLine("Ведите числo от 1 до 7");
+/*Console.WriteLine("Ведите числo от 1 до 7");
 int num = Convert.ToInt32(Console.ReadLine());
 {
     if (num == 1)
@@ -70,3 +70,4 @@ int num = Convert.ToInt32(Console.ReadLine());
     if (num <= 1 && num >= 7)
     Console.WriteLine("Ведите числo от 1 до 7");
 }
+*/
