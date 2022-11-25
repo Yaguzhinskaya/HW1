@@ -7,15 +7,20 @@
 // 782 -> 8 (2 задача)
 // 918 -> 1
 
-/*void chislo (int num)
+/*
+void chislo (int num)
 {
   int ed = num % 10;
   int dec = num / 10;
   int sot = num / 100;
   int rez = (num / sot) % 10;
+  num = Convert.ToInt32(Console.ReadLine());
+  chislo(num);
 }
-return rez;
-Console.Write($"Ваше число {chislo} это его второе {rez}");*/
+*/
+
+
+// Console.Write($"Ваше число {num} это его второе {rez}");
 
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 // 645 -> 5
