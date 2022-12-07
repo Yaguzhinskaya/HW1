@@ -92,7 +92,7 @@ Show2DArray(sortedArray);
 // 5 2 6 7
 // Программа считает сумму элементов в каждой строке и выдаёт номер строки с наименьшей суммой элементов: 1 строка
 
-/*Console.WriteLine($"Введите размер массива X x Y x Z: ");
+Console.WriteLine($"Введите размер массива X x Y x Z: ");
 int x = InputNumbers("Введите X: ");
 int y = InputNumbers("Введите Y: ");
 int z = InputNumbers("Введите Z: ");
@@ -161,7 +161,7 @@ void CreateArray(int[,,] array3D)
     }
   }
 }
-*/
+
 
 
 
